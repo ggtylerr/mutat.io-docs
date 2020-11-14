@@ -1,39 +1,15 @@
-Template
+mutat.io docs
 ========
+.. image:: https://img.shields.io/readthedocs/mutatio 
+.. image:: https://forthebadge.com/images/badges/built-with-love.svg
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+- View on `ReadTheDocs`_
+- Check out the `mutat.io repo`_
+- Head over to `mutat.io`_
 
-Look how easy it is to use:
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
-
-Features
---------
-
-- Be awesome
-- Make things faster
-
-Installation
-------------
-
-Install $project by running:
-
-    install project
-
-Contribute
-----------
-
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
-
-Support
--------
-
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
+.. _ReadTheDocs: https://mutatio.readthedocs.io/en/latest/index.html
+.. _mutat.io repo: https://github.com/ggtylerr/mutat.io
+.. _mutat.io: https://mutatio.ggtylerr.digital
 
 License
 -------
