@@ -14,4 +14,6 @@ mutat.io docs
 License
 -------
 
-The project is licensed under the BSD license.
+The project is licensed under the `ISC license.`_
+
+.. _ISC license.: https://choosealicense.com/licenses/isc/

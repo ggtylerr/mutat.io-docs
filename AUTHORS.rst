@@ -1,7 +1,7 @@
+.. Please put make a newline and put your name here if you want credit.
+
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
-
+* Tyler Flowers (ggtylerr)
 

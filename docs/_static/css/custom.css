@@ -1,0 +1,34 @@
+.wy-side-nav-search {
+	background-color: #111;
+}
+
+.wy-body-for-nav {
+	background-color: #222222;
+}
+
+.wy-nav-content {
+	background-color: #222222;
+}
+
+body {
+	color: #818181;
+}
+
+.wy-side-nav-search input[type=text] {
+	background-color: #222222;
+	border-color: #818181;
+	box-shadow: none;
+	color: #818181;
+}
+
+hr {
+	border-top: 1px solid #818181;
+}
+
+a:visited {
+	color: #2980b9
+}
+
+.wy-menu-vertical a:visited {
+	color: #d9d9d9
+}
