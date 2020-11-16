@@ -1,5 +1,6 @@
+*****
 Index
------
+*****
 
 The index page, while not entirely important, might work differently then you may think it does. 
 
